@@ -1,2 +1,3 @@
 # index.html
-index.html file for Wake Tech
+index.html file for Wake Tech is in this repo
+
